@@ -1,6 +1,6 @@
 # 🎬 IMDb SQL Data Analysis Project
 
-This project uses SQL to explore and analyze the IMDb 5000 Movie Dataset. It includes 20 curated queries that demonstrate core SQL concepts — from joins and CTEs to window functions — on real-world data.
+This project uses SQL to explore the IMDb 5000 Movie Dataset through real-world queries — covering everything from basic operations like GROUP BY, ORDER BY, and LIMIT, to advanced techniques including joins, CTEs, and window functions.
 
 ---
 
@@ -16,7 +16,7 @@ This project uses SQL to explore and analyze the IMDb 5000 Movie Dataset. It inc
 ## 🛠️ Tools & Environment
 
 - **Database:** MySQL
-- **Interface:** MySQL Workbench / CLI
+- **Interface:** MySQL Workbench
 - **Data Imported As:** `movie_metadata`
 
 ---
