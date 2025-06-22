@@ -249,14 +249,15 @@ SELECT * FROM ranked WHERE rank <= 3;
 ```
 
 ## ✅ Key Learnings
-Mastered SQL for Data Exploration & Analysis
-Applied real-world SQL techniques such as GROUP BY, HAVING, CASE, and filtering to extract actionable insights from raw movie data.
 
-Gained Hands-On Experience with Joins, CTEs, and Window Functions
-Used JOINs to combine datasets, CTEs for cleaner query logic, and ROW_NUMBER, RANK, and DENSE_RANK to perform advanced analytics.
+- **Mastered SQL for Data Exploration & Analysis**  
+  Applied real-world SQL techniques such as `GROUP BY`, `HAVING`, `CASE`, and filtering to extract actionable insights from raw movie data.
 
-Built Practical, Query-Driven Insights from Real Movie Data
-Analyzed movie ratings, revenues, languages, and actor/director trends — turning raw data into business-relevant summaries.
+- **Gained Hands-On Experience with Joins, CTEs, and Window Functions**  
+  Used `JOIN`s to combine datasets, `CTEs` for cleaner query logic, and `ROW_NUMBER`, `RANK`, and `DENSE_RANK` for advanced analytics.
+
+- **Built Practical, Query-Driven Insights from Real Movie Data**  
+  Analyzed movie ratings, revenues, languages, and actor/director trends — turning raw data into business-relevant summaries.
 
 ## 👨‍💻 Author & Contact
 - **Name:** D Akshaykumar  
